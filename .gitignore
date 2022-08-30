@@ -1,0 +1,10 @@
+# NPM
+node_modules/
+
+# IntelliJ
+.idea/
+
+# Only include the bundled script
+lib/*
+!lib/bundle.js
+!lib/bundle.d.ts
